@@ -1,0 +1,292 @@
+﻿2021-06-14T11:50:23.0048471+12:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-06-14T11:50:23.0050920+12:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.8.12 in Framework netcore31 in x64 mode execution started
+2021-06-14T11:50:23.0050977+12:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-06-14T11:50:23.0081043+12:00;VSTestExecutionThread;Info;Current UserName: 'Dell', MachineName: 'DELL-PC'
+2021-06-14T11:50:23.0606177+12:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SkillSwapSpecFlow.dll
+2021-06-14T11:50:23.0609510+12:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\TestResults" (default)
+2021-06-14T11:50:23.0610778+12:00;VSTestExecutionThread;Info;Profile: 
+2021-06-14T11:50:23.1192604+12:00;VSTestExecutionThread;Info;Log file path: C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\TestResults\Unnamed project__2021-06-14T115023.log
+2021-06-14T11:50:23.1263745+12:00;Thread#12;Info;Checking activation
+2021-06-14T11:50:23.2760101+12:00;Thread#12;Info;Activated.
+2021-06-14T11:50:23.2763928+12:00;Thread#12;Info;Activation check completed
+2021-06-14T11:50:23.2765131+12:00;Thread#12;Info;Starting test run
+2021-06-14T11:50:23.3985085+12:00;Thread#12;Info;Discovering target: Default
+2021-06-14T11:50:23.3988136+12:00;Thread#12;Info;Discovering tests from assembly: C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SkillSwapSpecFlow.dll
+2021-06-14T11:50:23.5266551+12:00;Thread#12;Info;Discovered tests from assembly: C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SkillSwapSpecFlow.dll
+2021-06-14T11:50:23.5287214+12:00:Test Suite Dump
+2021-06-14T11:50:23.5308782+12:00:#0: Unnamed project/ - 
+2021-06-14T11:50:23.5309304+12:00:#1: Default - 
+2021-06-14T11:50:23.5309362+12:00:#2: SkillSwapSpecFlow - 
+2021-06-14T11:50:23.5309389+12:00:#9: AddShareSkill - 
+2021-06-14T11:50:23.5323651+12:00:#10: Add Share Skill - Skill Exchange - Active - TestAssembly:SkillSwapSpecFlow/Feature:AddShareSkill/Scenario:Add+Share+Skill+-+Skill+Exchange+-+Active
+2021-06-14T11:50:23.5324667+12:00:End: Test Suite Dump
+2021-06-14T11:50:23.5548044+12:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-14T11:50:23.5575618+12:00:Thread#:Scheduler: testitem #10 from normal test queue 
+2021-06-14T11:50:23.5577150+12:00:Thread#0:Scheduler: considering testitem #10 for thread 0
+2021-06-14T11:50:23.5624863+12:00:Thread#0:TestItem#10:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-14T11:50:23.5625454+12:00:Thread#0:TestItem#10:runsOnOneOtherThreadSpecific:False
+2021-06-14T11:50:23.5625529+12:00:Thread#0:TestItem#10:runsOnOneOtherThreadUnspecific:False
+2021-06-14T11:50:23.5625613+12:00:Thread#0:Scheduler: using testitem #10 for thread 0
+2021-06-14T11:50:23.5635132+12:00:Thread#0:Scheduler: Test #10 is scheduled for thread
+2021-06-14T11:50:23.5657859+12:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-06-14T11:50:23.5689898+12:00:Thread #0: creating new test thread executor for SkillSwapSpecFlow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-06-14T11:50:23.5736200+12:00:Thread #0: Creating test assembly executor for execution model OutProc
+2021-06-14T11:50:23.5741010+12:00:Thread #0: Creating test assembly executor for execution model OutProc
+2021-06-14T11:50:23.5789271+12:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2021-06-14T11:50:23.5826530+12:00:starting Out Of Process Executor
+2021-06-14T11:50:23.5859058+12:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-06-14T11:50:23.5904156+12:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2021-06-14T11:50:23.5905072+12:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2021-06-14T11:50:23.5920829+12:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1'
+2021-06-14T11:50:23.5926584+12:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2021-06-14T11:50:23.5929398+12:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2021-06-14T11:50:23.5931212+12:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1'
+2021-06-14T11:50:23.5934778+12:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-06-14T11:50:23.5942755+12:00:Tfm: netcoreapp3.1
+2021-06-14T11:50:23.5943259+12:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-06-14T11:50:23.5943306+12:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2021-06-14T11:50:23.5944469+12:00:[AssemblyCache] Found file 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll' for assembly 'Microsoft.VisualStudio.Validation'
+2021-06-14T11:50:23.5950418+12:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Validation' to C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll
+2021-06-14T11:50:23.5958397+12:00:Starting callback TCP Rpc server
+2021-06-14T11:50:23.6198340+12:00:Asynchronously starting background TCP Rpc Server on port 32768
+2021-06-14T11:50:23.6200012+12:00:Started callback TCP Rpc server on port 32768
+2021-06-14T11:50:23.6200109+12:00:Starting logger TCP Rpc server
+2021-06-14T11:50:23.6246732+12:00:Asynchronously starting background TCP Rpc Server on port 32770
+2021-06-14T11:50:23.6247786+12:00:Started logger TCP Rpc server on port 32770
+2021-06-14T11:50:23.7288864+12:00:Executing test executor at 'dotnet' 'exec "C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 26776 --uniqueId "2021-06-14T115023" --outputFolder "C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\TestResults" --callbackPort 32768 --loggerPort 32770' in 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1'
+2021-06-14T11:50:23.7383335+12:00:Executor with PID 3604 has been started successfully.
+2021-06-14T11:50:23.7437422+12:00:Out of Process Executor 3604 started
+2021-06-14T11:50:23.7438010+12:00:Waiting for endpoint
+2021-06-14T11:50:24.1606279+12:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-06-14T11:50:24.1607542+12:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2021-06-14T11:50:24.1607662+12:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2021-06-14T11:50:24.1607755+12:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1'
+2021-06-14T11:50:24.1607784+12:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2021-06-14T11:50:24.1608676+12:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2021-06-14T11:50:24.1609471+12:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1'
+2021-06-14T11:50:24.1609598+12:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-06-14T11:50:24.1610332+12:00:Tfm: netcoreapp3.1
+2021-06-14T11:50:24.1610461+12:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-06-14T11:50:24.1610490+12:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2021-06-14T11:50:24.1611952+12:00:[AssemblyCache] Found file 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll' for assembly 'Microsoft.VisualStudio.Threading'
+2021-06-14T11:50:24.1618601+12:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Threading' to C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll
+2021-06-14T11:50:24.4551551+12:00:Remote executor port received: 32771
+2021-06-14T11:50:24.4556865+12:00:Creating executor TCP client on port 32771
+2021-06-14T11:50:24.4563842+12:00:Created executor TCP client on port 32771
+2021-06-14T11:50:24.4564274+12:00:Connecting to remote executor TCP server
+2021-06-14T11:50:24.4577438+12:00:Connected remote executor TCP server
+2021-06-14T11:50:24.4581167+12:00:trying to connect to Out of Process Executor the 1 attempt
+2021-06-14T11:50:24.4581658+12:00:Connection to Out of Process Executor established in the 1 attempt
+2021-06-14T11:50:24.6660823+12:00:2021-06-14T11:50:24.6645765+12:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SkillSwapSpecFlow.dll on test thread #0
+2021-06-14T11:50:24.6770213+12:00:Endpoint 3604 started
+2021-06-14T11:50:24.7040887+12:00:2021-06-14T11:50:24.7029014+12:00:OutOfProcessTestAssemblyExecutor: running tests...
+2021-06-14T11:50:24.8586609+12:00:2021-06-14T11:50:24.8580564+12:00:Assembly resolving TechTalk.SpecFlow, Version=3.8.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2021-06-14T11:50:24.8633355+12:00:2021-06-14T11:50:24.8627349+12:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2021-06-14T11:50:24.8673219+12:00:2021-06-14T11:50:24.8668356+12:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\Dell\.nuget\packages\specflow\3.8.7\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2021-06-14T11:50:25.0056731+12:00:2021-06-14T11:50:25.0050438+12:00:Thread#0:T:-> Loading plugin C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SkillSwapSpecFlow.dll
+2021-06-14T11:50:25.0077758+12:00:2021-06-14T11:50:25.0071340+12:00:Assembly resolving Microsoft.Extensions.DependencyModel, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-06-14T11:50:25.0088547+12:00:2021-06-14T11:50:25.0082769+12:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyModel' from .deps.json file
+2021-06-14T11:50:25.0105887+12:00:2021-06-14T11:50:25.0097009+12:00:[AssemblyCache] Resolved 'Microsoft.Extensions.DependencyModel' to 'C:\Users\Dell\.nuget\packages\microsoft.extensions.dependencymodel\1.0.3\lib\netstandard1.6\Microsoft.Extensions.DependencyModel.dll'
+2021-06-14T11:50:25.0708165+12:00:2021-06-14T11:50:25.0702113+12:00:Assembly resolving Microsoft.DotNet.PlatformAbstractions, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-06-14T11:50:25.0719023+12:00:2021-06-14T11:50:25.0713828+12:00:[AssemblyCache] Trying to resolve 'Microsoft.DotNet.PlatformAbstractions' from .deps.json file
+2021-06-14T11:50:25.0729892+12:00:2021-06-14T11:50:25.0725270+12:00:[AssemblyCache] Resolved 'Microsoft.DotNet.PlatformAbstractions' to 'C:\Users\Dell\.nuget\packages\microsoft.dotnet.platformabstractions\1.0.3\lib\netstandard1.3\Microsoft.DotNet.PlatformAbstractions.dll'
+2021-06-14T11:50:25.0833178+12:00:2021-06-14T11:50:25.0827626+12:00:Thread#0:T:-> Missing [assembly:RuntimePlugin] attribute in SkillSwapSpecFlow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2021-06-14T11:50:25.0843333+12:00:2021-06-14T11:50:25.0839022+12:00:Thread#0:T:-> Loading plugin C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\LivingDoc.SpecFlowPlugin.dll
+2021-06-14T11:50:25.0876780+12:00:2021-06-14T11:50:25.0872189+12:00:Assembly resolving LivingDoc.Dtos, Version=3.8.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:25.0886310+12:00:2021-06-14T11:50:25.0881303+12:00:[AssemblyCache] Trying to resolve 'LivingDoc.Dtos' from .deps.json file
+2021-06-14T11:50:25.0899678+12:00:2021-06-14T11:50:25.0894326+12:00:[AssemblyCache] Resolved 'LivingDoc.Dtos' to 'C:\Users\Dell\.nuget\packages\specflow.plus.livingdocplugin\3.8.35\lib\netstandard2.0\LivingDoc.Dtos.dll'
+2021-06-14T11:50:25.0937800+12:00:2021-06-14T11:50:25.0932099+12:00:Thread#0:T:-> Loading plugin C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-06-14T11:50:25.1072059+12:00:2021-06-14T11:50:25.1064903+12:00:Thread#0:T:-> Using default config
+2021-06-14T11:50:25.1217835+12:00:2021-06-14T11:50:25.1211731+12:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2021-06-14T11:50:25.1227551+12:00:2021-06-14T11:50:25.1223263+12:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2021-06-14T11:50:25.1241196+12:00:2021-06-14T11:50:25.1234583+12:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\Dell\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2021-06-14T11:50:25.1266429+12:00:2021-06-14T11:50:25.1260902+12:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2021-06-14T11:50:25.1275325+12:00:2021-06-14T11:50:25.1270646+12:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2021-06-14T11:50:25.1289072+12:00:2021-06-14T11:50:25.1283486+12:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\Dell\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2021-06-14T11:50:25.1373330+12:00:2021-06-14T11:50:25.1360619+12:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-06-14T11:50:25.1397687+12:00:2021-06-14T11:50:25.1384311+12:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2021-06-14T11:50:25.1430168+12:00:2021-06-14T11:50:25.1414961+12:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\Dell\.nuget\packages\microsoft.testplatform.objectmodel\16.10.0\lib\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2021-06-14T11:50:25.1975191+12:00:2021-06-14T11:50:25.1962684+12:00:Assembly resolving Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27
+2021-06-14T11:50:25.1995075+12:00:2021-06-14T11:50:25.1986564+12:00:[AssemblyCache] Trying to resolve 'Utf8Json' from .deps.json file
+2021-06-14T11:50:25.2015785+12:00:2021-06-14T11:50:25.2006089+12:00:[AssemblyCache] Resolved 'Utf8Json' to 'C:\Users\Dell\.nuget\packages\utf8json\1.3.7\lib\netstandard2.0\Utf8Json.dll'
+2021-06-14T11:50:25.4776619+12:00:Thread#0: Test #10/0 is started on thread #0
+2021-06-14T11:50:25.4947623+12:00:2021-06-14T11:50:25.4936926+12:00:Assembly resolving SeleniumExtras.PageObjects.Linq, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:25.4958098+12:00:2021-06-14T11:50:25.4952755+12:00:[AssemblyCache] Trying to resolve 'SeleniumExtras.PageObjects.Linq' from .deps.json file
+2021-06-14T11:50:25.4975515+12:00:2021-06-14T11:50:25.4968583+12:00:[AssemblyCache] Resolved 'SeleniumExtras.PageObjects.Linq' to 'C:\Users\Dell\.nuget\packages\dotnetseleniumextras.pageobjects.core.linq\1.0.0\lib\netstandard2.0\SeleniumExtras.PageObjects.Linq.dll'
+2021-06-14T11:50:25.5244226+12:00:2021-06-14T11:50:25.5236936+12:00:Assembly resolving WebDriver, Version=3.141.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:25.5257089+12:00:2021-06-14T11:50:25.5250555+12:00:[AssemblyCache] Trying to resolve 'WebDriver' from .deps.json file
+2021-06-14T11:50:25.5279228+12:00:2021-06-14T11:50:25.5267138+12:00:[AssemblyCache] Resolved 'WebDriver' to 'C:\Users\Dell\.nuget\packages\selenium.webdriver\3.141.0\lib\netstandard2.0\WebDriver.dll'
+2021-06-14T11:50:29.1772994+12:00:2021-06-14T11:50:29.1751973+12:00:Thread#0:B:Given User is logged in to Share Skill
+2021-06-14T11:50:29.2043917+12:00:2021-06-14T11:50:29.2027518+12:00:Assembly resolving ExcelDataReader, Version=3.6.0.0, Culture=neutral, PublicKeyToken=93517dbe6a4012fa
+2021-06-14T11:50:29.2070158+12:00:2021-06-14T11:50:29.2062493+12:00:[AssemblyCache] Trying to resolve 'ExcelDataReader' from .deps.json file
+2021-06-14T11:50:29.2098388+12:00:2021-06-14T11:50:29.2089665+12:00:[AssemblyCache] Resolved 'ExcelDataReader' to 'C:\Users\Dell\.nuget\packages\exceldatareader\3.6.0\lib\netstandard2.0\ExcelDataReader.dll'
+2021-06-14T11:50:29.2143822+12:00:2021-06-14T11:50:29.2136825+12:00:Assembly resolving ExcelDataReader.DataSet, Version=3.6.0.0, Culture=neutral, PublicKeyToken=93517dbe6a4012fa
+2021-06-14T11:50:29.2155048+12:00:2021-06-14T11:50:29.2149897+12:00:[AssemblyCache] Trying to resolve 'ExcelDataReader.DataSet' from .deps.json file
+2021-06-14T11:50:29.2170040+12:00:2021-06-14T11:50:29.2164110+12:00:[AssemblyCache] Resolved 'ExcelDataReader.DataSet' to 'C:\Users\Dell\.nuget\packages\exceldatareader.dataset\3.6.0\lib\netstandard2.0\ExcelDataReader.DataSet.dll'
+2021-06-14T11:50:29.3489867+12:00:2021-06-14T11:50:29.3482733+12:00:Assembly resolving SeleniumExtras.WaitHelpers, Version=3.11.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:29.3501932+12:00:2021-06-14T11:50:29.3496033+12:00:[AssemblyCache] Trying to resolve 'SeleniumExtras.WaitHelpers' from .deps.json file
+2021-06-14T11:50:29.3516836+12:00:2021-06-14T11:50:29.3510648+12:00:[AssemblyCache] Resolved 'SeleniumExtras.WaitHelpers' to 'C:\Users\Dell\.nuget\packages\dotnetseleniumextras.waithelpers\3.11.0\lib\netstandard2.0\SeleniumExtras.WaitHelpers.dll'
+2021-06-14T11:50:29.3557905+12:00:2021-06-14T11:50:29.3541370+12:00:Assembly resolving nunit.framework, Version=3.13.2.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2021-06-14T11:50:29.3580035+12:00:2021-06-14T11:50:29.3571257+12:00:[AssemblyCache] Trying to resolve 'nunit.framework' from .deps.json file
+2021-06-14T11:50:29.3595843+12:00:2021-06-14T11:50:29.3589949+12:00:[AssemblyCache] Resolved 'nunit.framework' to 'C:\Users\Dell\.nuget\packages\nunit\3.13.2\lib\netstandard2.0\nunit.framework.dll'
+2021-06-14T11:50:30.2553194+12:00:2021-06-14T11:50:30.2533080+12:00:Assembly resolving System.Net.Requests.resources, Version=4.1.2.0, Culture=en-US, PublicKeyToken=b03f5f7f11d50a3a
+2021-06-14T11:50:30.2580554+12:00:2021-06-14T11:50:30.2572280+12:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' from .deps.json file
+2021-06-14T11:50:30.2598511+12:00:2021-06-14T11:50:30.2589787+12:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' from .deps.json
+2021-06-14T11:50:30.2642840+12:00:2021-06-14T11:50:30.2635024+12:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1'
+2021-06-14T11:50:30.2671839+12:00:2021-06-14T11:50:30.2665492+12:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\System.Net.Requests.resources.dll'
+2021-06-14T11:50:30.2684961+12:00:2021-06-14T11:50:30.2679116+12:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\System.Net.Requests.resources.exe'
+2021-06-14T11:50:30.2708137+12:00:2021-06-14T11:50:30.2695322+12:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1'
+2021-06-14T11:50:30.2733369+12:00:2021-06-14T11:50:30.2721977+12:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-06-14T11:50:30.2764755+12:00:2021-06-14T11:50:30.2751445+12:00:Tfm: netcoreapp3.1
+2021-06-14T11:50:30.2785964+12:00:2021-06-14T11:50:30.2776222+12:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-06-14T11:50:30.2839875+12:00:2021-06-14T11:50:30.2810063+12:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Net.Requests.resources.dll'
+2021-06-14T11:50:30.2877098+12:00:2021-06-14T11:50:30.2854649+12:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Net.Requests.resources.exe'
+2021-06-14T11:50:30.2899526+12:00:2021-06-14T11:50:30.2887896+12:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-06-14T11:50:30.3099513+12:00:2021-06-14T11:50:30.3091611+12:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.13'
+2021-06-14T11:50:30.3110581+12:00:2021-06-14T11:50:30.3105650+12:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.13\System.Net.Requests.resources.dll'
+2021-06-14T11:50:30.3125936+12:00:2021-06-14T11:50:30.3117870+12:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.13\System.Net.Requests.resources.exe'
+2021-06-14T11:50:30.3138197+12:00:2021-06-14T11:50:30.3133053+12:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.13'
+2021-06-14T11:50:30.3154245+12:00:2021-06-14T11:50:30.3148063+12:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13'
+2021-06-14T11:50:30.3165724+12:00:2021-06-14T11:50:30.3159463+12:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13\System.Net.Requests.resources.dll'
+2021-06-14T11:50:30.3179143+12:00:2021-06-14T11:50:30.3173692+12:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13\System.Net.Requests.resources.exe'
+2021-06-14T11:50:30.3193086+12:00:2021-06-14T11:50:30.3187565+12:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13'
+2021-06-14T11:50:30.3212261+12:00:2021-06-14T11:50:30.3202972+12:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.13'
+2021-06-14T11:50:30.3225065+12:00:2021-06-14T11:50:30.3218689+12:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.13\System.Net.Requests.resources.dll'
+2021-06-14T11:50:30.3245998+12:00:2021-06-14T11:50:30.3235974+12:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.13\System.Net.Requests.resources.exe'
+2021-06-14T11:50:30.3311376+12:00:2021-06-14T11:50:30.3291195+12:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.13'
+2021-06-14T11:50:30.3366424+12:00:2021-06-14T11:50:30.3358889+12:00:Assembly resolving System.Net.Requests.resources, Version=4.1.2.0, Culture=en, PublicKeyToken=b03f5f7f11d50a3a
+2021-06-14T11:50:32.3431396+12:00:2021-06-14T11:50:32.3413373+12:00:Thread#0:T:done: AddShareSkillSteps.GivenUserIsLoggedInToShareSkill() (3.1s)
+2021-06-14T11:50:32.3509782+12:00:2021-06-14T11:50:32.3484587+12:00:Thread#0:B:When Add Share Skill with Skill Exhcange
+2021-06-14T11:50:32.3564032+12:00:2021-06-14T11:50:32.3553881+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:32.3582710+12:00:2021-06-14T11:50:32.3572585+12:00:[AssemblyCache] Trying to resolve 'SeleniumExtras.PageObjects' from .deps.json file
+2021-06-14T11:50:32.3611260+12:00:2021-06-14T11:50:32.3598371+12:00:[AssemblyCache] Resolved 'SeleniumExtras.PageObjects' to 'C:\Users\Dell\.nuget\packages\dotnetseleniumextras.pageobjects.core\3.12.0\lib\netstandard2.0\SeleniumExtras.PageObjects.dll'
+2021-06-14T11:50:32.3730313+12:00:2021-06-14T11:50:32.3719858+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:32.3929849+12:00:2021-06-14T11:50:32.3918773+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:32.3946892+12:00:2021-06-14T11:50:32.3941598+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:32.3965203+12:00:2021-06-14T11:50:32.3958360+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:32.3979963+12:00:2021-06-14T11:50:32.3973955+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:32.3999495+12:00:2021-06-14T11:50:32.3991955+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:32.4014280+12:00:2021-06-14T11:50:32.4009394+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:32.4025294+12:00:2021-06-14T11:50:32.4021208+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:32.4037284+12:00:2021-06-14T11:50:32.4032686+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:32.4049134+12:00:2021-06-14T11:50:32.4044579+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:32.4060389+12:00:2021-06-14T11:50:32.4055580+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:32.4071935+12:00:2021-06-14T11:50:32.4067942+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:32.4082633+12:00:2021-06-14T11:50:32.4078646+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:32.4096300+12:00:2021-06-14T11:50:32.4090018+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:32.4108919+12:00:2021-06-14T11:50:32.4104724+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:32.4128710+12:00:2021-06-14T11:50:32.4121164+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:32.4143943+12:00:2021-06-14T11:50:32.4138413+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:32.4159484+12:00:2021-06-14T11:50:32.4153902+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:32.4176965+12:00:2021-06-14T11:50:32.4170751+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:32.4187878+12:00:2021-06-14T11:50:32.4184047+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:32.4199393+12:00:2021-06-14T11:50:32.4194764+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:32.4214432+12:00:2021-06-14T11:50:32.4208540+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:32.4226855+12:00:2021-06-14T11:50:32.4222484+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:32.4238691+12:00:2021-06-14T11:50:32.4234324+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:32.4249680+12:00:2021-06-14T11:50:32.4245195+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:32.4262375+12:00:2021-06-14T11:50:32.4257190+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:32.4277380+12:00:2021-06-14T11:50:32.4270880+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:32.4295696+12:00:2021-06-14T11:50:32.4289194+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:32.4313756+12:00:2021-06-14T11:50:32.4306782+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:36.3075294+12:00:2021-06-14T11:50:36.3053773+12:00:Assembly resolving WebDriver.Support, Version=3.141.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:36.3106371+12:00:2021-06-14T11:50:36.3090676+12:00:[AssemblyCache] Trying to resolve 'WebDriver.Support' from .deps.json file
+2021-06-14T11:50:36.3128567+12:00:2021-06-14T11:50:36.3118870+12:00:[AssemblyCache] Resolved 'WebDriver.Support' to 'C:\Users\Dell\.nuget\packages\selenium.support\3.141.0\lib\netstandard2.0\WebDriver.Support.dll'
+2021-06-14T11:50:39.6684122+12:00:2021-06-14T11:50:39.6670535+12:00:Thread#0:T:done: AddShareSkillSteps.WhenAddShareSkillWithSkillExhcange() (7.3s)
+2021-06-14T11:50:39.6714010+12:00:2021-06-14T11:50:39.6703936+12:00:Thread#0:B:And Select Share Skill as Active
+2021-06-14T11:50:39.6755115+12:00:2021-06-14T11:50:39.6745295+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:39.6772323+12:00:2021-06-14T11:50:39.6765675+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:39.6786715+12:00:2021-06-14T11:50:39.6780201+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:39.6799302+12:00:2021-06-14T11:50:39.6793447+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:39.6817155+12:00:2021-06-14T11:50:39.6807645+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:39.6839747+12:00:2021-06-14T11:50:39.6826842+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:39.6859973+12:00:2021-06-14T11:50:39.6850665+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:39.6881412+12:00:2021-06-14T11:50:39.6873281+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:39.6903356+12:00:2021-06-14T11:50:39.6896784+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:39.6915537+12:00:2021-06-14T11:50:39.6910322+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:39.6926257+12:00:2021-06-14T11:50:39.6921885+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:39.6938378+12:00:2021-06-14T11:50:39.6932871+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:39.6951158+12:00:2021-06-14T11:50:39.6945464+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:39.6961653+12:00:2021-06-14T11:50:39.6957540+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:39.6973072+12:00:2021-06-14T11:50:39.6968702+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:39.6988869+12:00:2021-06-14T11:50:39.6978675+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:39.7009712+12:00:2021-06-14T11:50:39.7003322+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:39.7024679+12:00:2021-06-14T11:50:39.7018060+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:39.7037300+12:00:2021-06-14T11:50:39.7031575+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:39.7048881+12:00:2021-06-14T11:50:39.7043741+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:39.7060599+12:00:2021-06-14T11:50:39.7055887+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:39.7071581+12:00:2021-06-14T11:50:39.7067099+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:39.7082062+12:00:2021-06-14T11:50:39.7077377+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:39.7091939+12:00:2021-06-14T11:50:39.7087425+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:39.7101371+12:00:2021-06-14T11:50:39.7097533+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:39.7111521+12:00:2021-06-14T11:50:39.7106906+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:39.7121267+12:00:2021-06-14T11:50:39.7117132+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:39.7130624+12:00:2021-06-14T11:50:39.7126037+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:39.7143590+12:00:2021-06-14T11:50:39.7136133+12:00:Assembly resolving SeleniumExtras.PageObjects, Version=3.12.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-14T11:50:39.9222505+12:00:2021-06-14T11:50:39.9214767+12:00:Thread#0:T:done: AddShareSkillSteps.WhenSelectShareSkillAsActive() (0.2s)
+2021-06-14T11:50:39.9241978+12:00:2021-06-14T11:50:39.9236241+12:00:Thread#0:B:Then Active Share SKill details should be saved
+2021-06-14T11:50:46.6104827+12:00:2021-06-14T11:50:46.6094634+12:00:Thread#0:T:done: AddShareSkillSteps.ThenActiveShareSKillDetailsShouldBeSaved() (6.7s)
+2021-06-14T11:50:46.6361519+12:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-14T11:50:46.6363018+12:00:Thread#:Scheduler: at the end of normal test queue
+2021-06-14T11:50:46.6363114+12:00:Thread#0:Scheduler: enumerator for thread is at end
+2021-06-14T11:50:46.6363200+12:00:Thread#0:Scheduler: No more tests for thread
+2021-06-14T11:50:47.4595022+12:00:Thread#0: Test #10/0 is finished on thread #0 as Succeeded within 21.9800854 seconds
+2021-06-14T11:50:47.4739623+12:00:2021-06-14T11:50:47.4732767+12:00:Got Deinitialize Signal
+2021-06-14T11:50:47.4804170+12:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2021-06-14T11:50:47.4821167+12:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2021-06-14T11:50:47.4839922+12:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2021-06-14T11:50:47.4862530+12:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en-US, PublicKeyToken=b03f5f7f11d50a3a
+2021-06-14T11:50:47.4863461+12:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2021-06-14T11:50:47.4863607+12:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2021-06-14T11:50:47.4863740+12:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1'
+2021-06-14T11:50:47.4863942+12:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2021-06-14T11:50:47.4867208+12:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2021-06-14T11:50:47.4868690+12:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1'
+2021-06-14T11:50:47.4868874+12:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-06-14T11:50:47.4869954+12:00:Tfm: netcoreapp3.1
+2021-06-14T11:50:47.4870082+12:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-06-14T11:50:47.4870117+12:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2021-06-14T11:50:47.4871182+12:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2021-06-14T11:50:47.4872335+12:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-06-14T11:50:47.4997511+12:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.13'
+2021-06-14T11:50:47.4998089+12:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.13\System.Diagnostics.Process.resources.dll'
+2021-06-14T11:50:47.5000730+12:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.13\System.Diagnostics.Process.resources.exe'
+2021-06-14T11:50:47.5002298+12:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.13'
+2021-06-14T11:50:47.5005975+12:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13'
+2021-06-14T11:50:47.5006473+12:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13\System.Diagnostics.Process.resources.dll'
+2021-06-14T11:50:47.5007573+12:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13\System.Diagnostics.Process.resources.exe'
+2021-06-14T11:50:47.5008595+12:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13'
+2021-06-14T11:50:47.5014099+12:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.13'
+2021-06-14T11:50:47.5014611+12:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.13\System.Diagnostics.Process.resources.dll'
+2021-06-14T11:50:47.5016618+12:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.13\System.Diagnostics.Process.resources.exe'
+2021-06-14T11:50:47.5018143+12:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.13'
+2021-06-14T11:50:47.5038311+12:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en, PublicKeyToken=b03f5f7f11d50a3a
+2021-06-14T11:50:47.5322908+12:00:Thread#-1:Scheduler: get next test for thread -1
+2021-06-14T11:50:47.5323746+12:00:Thread#:Scheduler: at the end of normal test queue
+2021-06-14T11:50:47.5323845+12:00:Thread#-1:Scheduler: enumerator for thread is at end
+2021-06-14T11:50:47.5355690+12:00;Thread#12;Info;test run finished
+2021-06-14T11:50:47.5359739+12:00;Thread#12;Info;publishing test results
+2021-06-14T11:50:47.5363639+12:00;Thread#12;Info;Not publishing results.
+2021-06-14T11:50:47.5366238+12:00;Thread#12;Info;test results published
+2021-06-14T11:50:47.5367159+12:00;Thread#12;Info;generating reports
+2021-06-14T11:50:47.6437651+12:00;Thread#12;Info;Starting external report generation process
+2021-06-14T11:50:49.8257195+12:00;Thread#12;Info;Successfully generated reports.
+2021-06-14T11:50:49.8300741+12:00;Thread#12;Info;Successfully generated reports
+2021-06-14T11:50:49.8427667+12:00:Total: 1
+2021-06-14T11:50:49.8451068+12:00:Succeeded: 1
+2021-06-14T11:50:49.8455289+12:00:Ignored: 0
+2021-06-14T11:50:49.8459174+12:00:Pending: 0
+2021-06-14T11:50:49.8459512+12:00:Skipped: 0
+2021-06-14T11:50:49.8462802+12:00:Failed: 0
+2021-06-14T11:50:49.8556405+12:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2021-06-14T11:50:49.8565225+12:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\TestResults\Unnamed project__2021-06-14T115023.html'
+========== End of log file ==========

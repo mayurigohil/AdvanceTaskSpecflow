@@ -1,0 +1,223 @@
+﻿2021-06-11T00:34:50.3478998+12:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-06-11T00:34:50.3481366+12:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.8.12 in Framework netcore31 in x64 mode execution started
+2021-06-11T00:34:50.3481421+12:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-06-11T00:34:50.3499117+12:00;VSTestExecutionThread;Info;Current UserName: 'Dell', MachineName: 'DELL-PC'
+2021-06-11T00:34:50.3969569+12:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SkillSwapSpecFlow.dll
+2021-06-11T00:34:50.3973134+12:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\TestResults" (default)
+2021-06-11T00:34:50.3974452+12:00;VSTestExecutionThread;Info;Profile: 
+2021-06-11T00:34:50.4680455+12:00;VSTestExecutionThread;Info;Log file path: C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\TestResults\Unnamed project__2021-06-11T003450.log
+2021-06-11T00:34:50.4755190+12:00;Thread#12;Info;Checking activation
+2021-06-11T00:34:50.6055082+12:00;Thread#12;Info;Activated.
+2021-06-11T00:34:50.6058770+12:00;Thread#12;Info;Activation check completed
+2021-06-11T00:34:50.6060058+12:00;Thread#12;Info;Starting test run
+2021-06-11T00:34:50.7241113+12:00;Thread#12;Info;Discovering target: Default
+2021-06-11T00:34:50.7243426+12:00;Thread#12;Info;Discovering tests from assembly: C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SkillSwapSpecFlow.dll
+2021-06-11T00:34:50.8503395+12:00;Thread#12;Info;Discovered tests from assembly: C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SkillSwapSpecFlow.dll
+2021-06-11T00:34:50.8522981+12:00:Test Suite Dump
+2021-06-11T00:34:50.8545527+12:00:#0: Unnamed project/ - 
+2021-06-11T00:34:50.8545865+12:00:#1: Default - 
+2021-06-11T00:34:50.8545913+12:00:#2: SkillSwapSpecFlow - 
+2021-06-11T00:34:50.8545938+12:00:#3: Add Profile details - 
+2021-06-11T00:34:50.8561861+12:00:#4: Add Description on Profile Page - TestAssembly:SkillSwapSpecFlow/Feature:Add+Profile+details/Scenario:Add+Description+on+Profile+Page
+2021-06-11T00:34:50.8562694+12:00:End: Test Suite Dump
+2021-06-11T00:34:50.8852363+12:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-11T00:34:50.8885810+12:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2021-06-11T00:34:50.8887754+12:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-06-11T00:34:50.8940868+12:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-11T00:34:50.8941462+12:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-06-11T00:34:50.8941574+12:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-06-11T00:34:50.8941633+12:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-06-11T00:34:50.8953437+12:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-06-11T00:34:50.8987046+12:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-06-11T00:34:50.9026904+12:00:Thread #0: creating new test thread executor for SkillSwapSpecFlow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-06-11T00:34:50.9070792+12:00:Thread #0: Creating test assembly executor for execution model OutProc
+2021-06-11T00:34:50.9074870+12:00:Thread #0: Creating test assembly executor for execution model OutProc
+2021-06-11T00:34:50.9638105+12:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2021-06-11T00:34:50.9661601+12:00:starting Out Of Process Executor
+2021-06-11T00:34:51.0684106+12:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-06-11T00:34:51.0714594+12:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2021-06-11T00:34:51.0714839+12:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2021-06-11T00:34:51.0727992+12:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1'
+2021-06-11T00:34:51.0732560+12:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2021-06-11T00:34:51.0733607+12:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2021-06-11T00:34:51.0734274+12:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1'
+2021-06-11T00:34:51.0737142+12:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-06-11T00:34:51.0744635+12:00:Tfm: netcoreapp3.1
+2021-06-11T00:34:51.0744807+12:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-06-11T00:34:51.0744892+12:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2021-06-11T00:34:51.0745703+12:00:[AssemblyCache] Found file 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll' for assembly 'Microsoft.VisualStudio.Validation'
+2021-06-11T00:34:51.0753885+12:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Validation' to C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll
+2021-06-11T00:34:51.0762283+12:00:Starting callback TCP Rpc server
+2021-06-11T00:34:51.0977865+12:00:Asynchronously starting background TCP Rpc Server on port 32768
+2021-06-11T00:34:51.0978681+12:00:Started callback TCP Rpc server on port 32768
+2021-06-11T00:34:51.0978775+12:00:Starting logger TCP Rpc server
+2021-06-11T00:34:51.1013743+12:00:Asynchronously starting background TCP Rpc Server on port 32769
+2021-06-11T00:34:51.1014259+12:00:Started logger TCP Rpc server on port 32769
+2021-06-11T00:34:51.3156668+12:00:Executing test executor at 'dotnet' 'exec "C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 4464 --uniqueId "2021-06-11T003450" --outputFolder "C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\TestResults" --callbackPort 32768 --loggerPort 32769' in 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1'
+2021-06-11T00:34:51.3245756+12:00:Executor with PID 25900 has been started successfully.
+2021-06-11T00:34:51.3289367+12:00:Out of Process Executor 25900 started
+2021-06-11T00:34:51.3289722+12:00:Waiting for endpoint
+2021-06-11T00:34:51.8178115+12:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-06-11T00:34:51.8179333+12:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2021-06-11T00:34:51.8179530+12:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2021-06-11T00:34:51.8179685+12:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1'
+2021-06-11T00:34:51.8179758+12:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2021-06-11T00:34:51.8181314+12:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2021-06-11T00:34:51.8182104+12:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1'
+2021-06-11T00:34:51.8182351+12:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-06-11T00:34:51.8183514+12:00:Tfm: netcoreapp3.1
+2021-06-11T00:34:51.8183907+12:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-06-11T00:34:51.8183982+12:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2021-06-11T00:34:51.8185599+12:00:[AssemblyCache] Found file 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll' for assembly 'Microsoft.VisualStudio.Threading'
+2021-06-11T00:34:51.8196872+12:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Threading' to C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll
+2021-06-11T00:34:52.1599365+12:00:Remote executor port received: 32770
+2021-06-11T00:34:52.1604575+12:00:Creating executor TCP client on port 32770
+2021-06-11T00:34:52.1611143+12:00:Created executor TCP client on port 32770
+2021-06-11T00:34:52.1611408+12:00:Connecting to remote executor TCP server
+2021-06-11T00:34:52.1623297+12:00:Connected remote executor TCP server
+2021-06-11T00:34:52.1627014+12:00:trying to connect to Out of Process Executor the 1 attempt
+2021-06-11T00:34:52.1627223+12:00:Connection to Out of Process Executor established in the 1 attempt
+2021-06-11T00:34:52.3739924+12:00:2021-06-11T00:34:52.3717051+12:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SkillSwapSpecFlow.dll on test thread #0
+2021-06-11T00:34:52.3826240+12:00:Endpoint 25900 started
+2021-06-11T00:34:52.4110954+12:00:2021-06-11T00:34:52.4103933+12:00:OutOfProcessTestAssemblyExecutor: running tests...
+2021-06-11T00:34:52.5623658+12:00:2021-06-11T00:34:52.5618806+12:00:Assembly resolving TechTalk.SpecFlow, Version=3.8.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2021-06-11T00:34:52.5671842+12:00:2021-06-11T00:34:52.5666789+12:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2021-06-11T00:34:52.5714573+12:00:2021-06-11T00:34:52.5710182+12:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\Dell\.nuget\packages\specflow\3.8.7\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2021-06-11T00:34:52.7116954+12:00:2021-06-11T00:34:52.7103377+12:00:Thread#0:T:-> Loading plugin C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SkillSwapSpecFlow.dll
+2021-06-11T00:34:52.7149229+12:00:2021-06-11T00:34:52.7137088+12:00:Assembly resolving Microsoft.Extensions.DependencyModel, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-06-11T00:34:52.7169227+12:00:2021-06-11T00:34:52.7158152+12:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyModel' from .deps.json file
+2021-06-11T00:34:52.7196012+12:00:2021-06-11T00:34:52.7182317+12:00:[AssemblyCache] Resolved 'Microsoft.Extensions.DependencyModel' to 'C:\Users\Dell\.nuget\packages\microsoft.extensions.dependencymodel\1.0.3\lib\netstandard1.6\Microsoft.Extensions.DependencyModel.dll'
+2021-06-11T00:34:52.7847432+12:00:2021-06-11T00:34:52.7835958+12:00:Assembly resolving Microsoft.DotNet.PlatformAbstractions, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-06-11T00:34:52.7857016+12:00:2021-06-11T00:34:52.7853238+12:00:[AssemblyCache] Trying to resolve 'Microsoft.DotNet.PlatformAbstractions' from .deps.json file
+2021-06-11T00:34:52.7872346+12:00:2021-06-11T00:34:52.7861598+12:00:[AssemblyCache] Resolved 'Microsoft.DotNet.PlatformAbstractions' to 'C:\Users\Dell\.nuget\packages\microsoft.dotnet.platformabstractions\1.0.3\lib\netstandard1.3\Microsoft.DotNet.PlatformAbstractions.dll'
+2021-06-11T00:34:52.7977762+12:00:2021-06-11T00:34:52.7973867+12:00:Thread#0:T:-> Missing [assembly:RuntimePlugin] attribute in SkillSwapSpecFlow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2021-06-11T00:34:52.7984490+12:00:2021-06-11T00:34:52.7981902+12:00:Thread#0:T:-> Loading plugin C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\LivingDoc.SpecFlowPlugin.dll
+2021-06-11T00:34:52.8017604+12:00:2021-06-11T00:34:52.8013029+12:00:Assembly resolving LivingDoc.Dtos, Version=3.8.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-11T00:34:52.8023923+12:00:2021-06-11T00:34:52.8020686+12:00:[AssemblyCache] Trying to resolve 'LivingDoc.Dtos' from .deps.json file
+2021-06-11T00:34:52.8032418+12:00:2021-06-11T00:34:52.8028628+12:00:[AssemblyCache] Resolved 'LivingDoc.Dtos' to 'C:\Users\Dell\.nuget\packages\specflow.plus.livingdocplugin\3.8.35\lib\netstandard2.0\LivingDoc.Dtos.dll'
+2021-06-11T00:34:52.8058454+12:00:2021-06-11T00:34:52.8054752+12:00:Thread#0:T:-> Loading plugin C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-06-11T00:34:52.8175210+12:00:2021-06-11T00:34:52.8169028+12:00:Thread#0:T:-> Using default config
+2021-06-11T00:34:52.8330714+12:00:2021-06-11T00:34:52.8325861+12:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2021-06-11T00:34:52.8340230+12:00:2021-06-11T00:34:52.8336335+12:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2021-06-11T00:34:52.8350188+12:00:2021-06-11T00:34:52.8346291+12:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\Dell\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2021-06-11T00:34:52.8366616+12:00:2021-06-11T00:34:52.8362562+12:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2021-06-11T00:34:52.8372711+12:00:2021-06-11T00:34:52.8370438+12:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2021-06-11T00:34:52.8379799+12:00:2021-06-11T00:34:52.8376050+12:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\Dell\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2021-06-11T00:34:52.8457518+12:00:2021-06-11T00:34:52.8453724+12:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-06-11T00:34:52.8542751+12:00:2021-06-11T00:34:52.8538387+12:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2021-06-11T00:34:52.8551925+12:00:2021-06-11T00:34:52.8548969+12:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\Dell\.nuget\packages\microsoft.testplatform.objectmodel\16.10.0\lib\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2021-06-11T00:34:52.9082251+12:00:2021-06-11T00:34:52.9077987+12:00:Assembly resolving Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27
+2021-06-11T00:34:52.9087113+12:00:2021-06-11T00:34:52.9084630+12:00:[AssemblyCache] Trying to resolve 'Utf8Json' from .deps.json file
+2021-06-11T00:34:52.9094244+12:00:2021-06-11T00:34:52.9090611+12:00:[AssemblyCache] Resolved 'Utf8Json' to 'C:\Users\Dell\.nuget\packages\utf8json\1.3.7\lib\netstandard2.0\Utf8Json.dll'
+2021-06-11T00:34:53.1976423+12:00:Thread#0: Test #4/0 is started on thread #0
+2021-06-11T00:34:53.2174672+12:00:2021-06-11T00:34:53.2163495+12:00:Assembly resolving SeleniumExtras.PageObjects.Linq, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-11T00:34:53.2182613+12:00:2021-06-11T00:34:53.2178278+12:00:[AssemblyCache] Trying to resolve 'SeleniumExtras.PageObjects.Linq' from .deps.json file
+2021-06-11T00:34:53.2196642+12:00:2021-06-11T00:34:53.2191520+12:00:[AssemblyCache] Resolved 'SeleniumExtras.PageObjects.Linq' to 'C:\Users\Dell\.nuget\packages\dotnetseleniumextras.pageobjects.core.linq\1.0.0\lib\netstandard2.0\SeleniumExtras.PageObjects.Linq.dll'
+2021-06-11T00:34:53.2472205+12:00:2021-06-11T00:34:53.2467310+12:00:Assembly resolving WebDriver, Version=3.141.0.0, Culture=neutral, PublicKeyToken=null
+2021-06-11T00:34:53.2478042+12:00:2021-06-11T00:34:53.2475055+12:00:[AssemblyCache] Trying to resolve 'WebDriver' from .deps.json file
+2021-06-11T00:34:53.2486421+12:00:2021-06-11T00:34:53.2482658+12:00:[AssemblyCache] Resolved 'WebDriver' to 'C:\Users\Dell\.nuget\packages\selenium.webdriver\3.141.0\lib\netstandard2.0\WebDriver.dll'
+2021-06-11T00:34:53.2968659+12:00:2021-06-11T00:34:53.2964530+12:00:Thread#0:B:Given User is logged in to Mars
+2021-06-11T00:34:53.3120472+12:00:2021-06-11T00:34:53.3116145+12:00:Thread#0:T:skipped because of previous errors
+2021-06-11T00:34:53.3174883+12:00:2021-06-11T00:34:53.3171146+12:00:Thread#0:B:When Add Profile description
+2021-06-11T00:34:53.3184415+12:00:2021-06-11T00:34:53.3180352+12:00:Thread#0:T:skipped because of previous errors
+2021-06-11T00:34:53.3196450+12:00:2021-06-11T00:34:53.3192107+12:00:Thread#0:B:Then The details should be saved
+2021-06-11T00:34:53.3204161+12:00:2021-06-11T00:34:53.3200799+12:00:Thread#0:T:skipped because of previous errors
+2021-06-11T00:34:53.3422952+12:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2021-06-11T00:34:53.3449572+12:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-11T00:34:53.3450429+12:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2021-06-11T00:34:53.3450520+12:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-06-11T00:34:53.3451294+12:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-11T00:34:53.3451461+12:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-06-11T00:34:53.3451493+12:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-06-11T00:34:53.3451519+12:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-06-11T00:34:53.3451833+12:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-06-11T00:34:53.3452160+12:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2021-06-11T00:34:53.3967816+12:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 0.1970064 seconds
+2021-06-11T00:34:53.4002693+12:00:Thread#0: Test #4/1 is started on thread #0
+2021-06-11T00:34:53.4045909+12:00:2021-06-11T00:34:53.4039996+12:00:Thread#0:B:Given User is logged in to Mars
+2021-06-11T00:34:53.4054823+12:00:2021-06-11T00:34:53.4050658+12:00:Thread#0:T:skipped because of previous errors
+2021-06-11T00:34:53.4062733+12:00:2021-06-11T00:34:53.4059577+12:00:Thread#0:B:When Add Profile description
+2021-06-11T00:34:53.4069633+12:00:2021-06-11T00:34:53.4066314+12:00:Thread#0:T:skipped because of previous errors
+2021-06-11T00:34:53.4076714+12:00:2021-06-11T00:34:53.4073173+12:00:Thread#0:B:Then The details should be saved
+2021-06-11T00:34:53.4083683+12:00:2021-06-11T00:34:53.4080350+12:00:Thread#0:T:skipped because of previous errors
+2021-06-11T00:34:53.4109093+12:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-11T00:34:53.4109543+12:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2021-06-11T00:34:53.4109703+12:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-06-11T00:34:53.4110361+12:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-11T00:34:53.4110440+12:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-06-11T00:34:53.4110485+12:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-06-11T00:34:53.4110535+12:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-06-11T00:34:53.4110713+12:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-06-11T00:34:53.4110885+12:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2021-06-11T00:34:53.4147897+12:00:Thread#0: Test #4/1 is finished on thread #0 as Failed within 0.0143755 seconds
+2021-06-11T00:34:53.4157596+12:00:Thread#0: Test #4/2 is started on thread #0
+2021-06-11T00:34:53.4236734+12:00:2021-06-11T00:34:53.4208009+12:00:Thread#0:B:Given User is logged in to Mars
+2021-06-11T00:34:53.4269969+12:00:2021-06-11T00:34:53.4253951+12:00:Thread#0:T:skipped because of previous errors
+2021-06-11T00:34:53.4280879+12:00:2021-06-11T00:34:53.4276814+12:00:Thread#0:B:When Add Profile description
+2021-06-11T00:34:53.4291295+12:00:2021-06-11T00:34:53.4288171+12:00:Thread#0:T:skipped because of previous errors
+2021-06-11T00:34:53.4299066+12:00:2021-06-11T00:34:53.4295360+12:00:Thread#0:B:Then The details should be saved
+2021-06-11T00:34:53.4306074+12:00:2021-06-11T00:34:53.4303078+12:00:Thread#0:T:skipped because of previous errors
+2021-06-11T00:34:53.4323921+12:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-11T00:34:53.4324307+12:00:Thread#:Scheduler: at the end of normal test queue
+2021-06-11T00:34:53.4324404+12:00:Thread#0:Scheduler: enumerator for thread is at end
+2021-06-11T00:34:53.4324443+12:00:Thread#0:Scheduler: No more tests for thread
+2021-06-11T00:34:53.4382579+12:00:Thread#0: Test #4/2 is finished on thread #0 as Failed within 0.0224402 seconds
+2021-06-11T00:34:53.4493931+12:00:2021-06-11T00:34:53.4490106+12:00:Got Deinitialize Signal
+2021-06-11T00:34:53.4558512+12:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2021-06-11T00:34:53.4566487+12:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2021-06-11T00:34:53.4587476+12:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2021-06-11T00:34:53.4633326+12:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en-US, PublicKeyToken=b03f5f7f11d50a3a
+2021-06-11T00:34:53.4633763+12:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2021-06-11T00:34:53.4633890+12:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2021-06-11T00:34:53.4634010+12:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1'
+2021-06-11T00:34:53.4634222+12:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2021-06-11T00:34:53.4635562+12:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2021-06-11T00:34:53.4636379+12:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1'
+2021-06-11T00:34:53.4636547+12:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-06-11T00:34:53.4637464+12:00:Tfm: netcoreapp3.1
+2021-06-11T00:34:53.4637679+12:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-06-11T00:34:53.4637752+12:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2021-06-11T00:34:53.4639082+12:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2021-06-11T00:34:53.4640025+12:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\SkillSwapSpecFlow\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-06-11T00:34:53.4765930+12:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.13'
+2021-06-11T00:34:53.4766283+12:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.13\System.Diagnostics.Process.resources.dll'
+2021-06-11T00:34:53.4767447+12:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.13\System.Diagnostics.Process.resources.exe'
+2021-06-11T00:34:53.4768304+12:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.13'
+2021-06-11T00:34:53.4770384+12:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13'
+2021-06-11T00:34:53.4770556+12:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13\System.Diagnostics.Process.resources.dll'
+2021-06-11T00:34:53.4771550+12:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13\System.Diagnostics.Process.resources.exe'
+2021-06-11T00:34:53.4772390+12:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13'
+2021-06-11T00:34:53.4775117+12:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.13'
+2021-06-11T00:34:53.4775259+12:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.13\System.Diagnostics.Process.resources.dll'
+2021-06-11T00:34:53.4776188+12:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.13\System.Diagnostics.Process.resources.exe'
+2021-06-11T00:34:53.4777032+12:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.13'
+2021-06-11T00:34:53.4787761+12:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en, PublicKeyToken=b03f5f7f11d50a3a
+2021-06-11T00:34:53.4903408+12:00:Thread#-1:Scheduler: get next test for thread -1
+2021-06-11T00:34:53.4903819+12:00:Thread#:Scheduler: at the end of normal test queue
+2021-06-11T00:34:53.4903925+12:00:Thread#-1:Scheduler: enumerator for thread is at end
+2021-06-11T00:34:53.4988781+12:00;Thread#12;Info;test run finished
+2021-06-11T00:34:53.4991412+12:00;Thread#12;Info;publishing test results
+2021-06-11T00:34:53.4994125+12:00;Thread#12;Info;Not publishing results.
+2021-06-11T00:34:53.4995595+12:00;Thread#12;Info;test results published
+2021-06-11T00:34:53.4996736+12:00;Thread#12;Info;generating reports
+2021-06-11T00:34:53.6200158+12:00;Thread#12;Info;Starting external report generation process
+2021-06-11T00:34:57.2152504+12:00;Thread#12;Info;Successfully generated reports.
+2021-06-11T00:34:57.2180742+12:00;Thread#12;Info;Successfully generated reports
+2021-06-11T00:34:57.2275740+12:00:Total: 1 (test executions: 3)
+2021-06-11T00:34:57.2298027+12:00:Succeeded: 0
+2021-06-11T00:34:57.2302043+12:00:Ignored: 0
+2021-06-11T00:34:57.2305482+12:00:Pending: 0
+2021-06-11T00:34:57.2305610+12:00:Skipped: 0
+2021-06-11T00:34:57.2308895+12:00:Failed: 1
+2021-06-11T00:34:57.2377695+12:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2021-06-11T00:34:57.2378920+12:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\Dell\Documents\VB Feb 2021\SpecflowTask\SkillSwapSpecFlow\TestResults\Unnamed project__2021-06-11T003450.html'
+========== End of log file ==========
